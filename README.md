@@ -4,7 +4,8 @@ Implementing algorithms in Js, Py and C# here
 
 ## Algorithms
 
-* [Pivot (Equilibrium Point) of an array (JavaScript)](arraypivot.js);
+* [Largest number in Array that is at least twice of others (JavaScript)](largest_number_x2_of_others.js)
+* [Pivot (Equilibrium Point) of an array (JavaScript)](array_pivot.js);
 * [Insertion Sort (JavaScript)](insertion_sort.js)
 * [Insertion Sort (Python)](insertion_sort.py)
 * [Insertion Sort (CSharp)](InsertionSort.cs)
